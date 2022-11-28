@@ -8,17 +8,17 @@
 ------------
 
 ### ✨  Challenge
-> Started at Nov 29, 2022    
-> Review each other's code  
-> Participants : [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
-> - Lv1
->   - For 19 days
->   - under 60% success rate -> one problem a day
->   - over 60% success rate -> two problem a day
+- Review each other's code  
+- Started at Nov 29, 2022    
+- Lv1
+  - under 60% success rate -> one problem a day
+  - over 60% success rate -> two problem a day
+  - For 19 days
+ - Participants : [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
 
 ------------
 
 ### ✨  Study
-> Started at Nov 20, 2022
-> - Lv1 - 8 uploaded
-> - Restarted after challenge ends
+- Started at Nov 20, 2022
+- Lv1 -> 8 uploadeds
+- Restarted after challenge ends
