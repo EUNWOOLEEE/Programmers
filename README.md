@@ -10,7 +10,7 @@
 ### ✨  Challenge
 > Started at Nov 29, 2022    
 > Review each other's code  
-> Participants : JeisaNewbie, DongwookHong, KichanLee  
+> Participants : [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
 > - Lv1
 >   - For 19 days
 >   - under 60% success rate -> one problem a day
