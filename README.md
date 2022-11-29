@@ -14,7 +14,7 @@
   - under 60% success rate -> one problem a day
   - over 60% success rate -> two problem a day
   - For 19 days
- - Participants : [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
+ - Participants : [woniewonie](https://github.com/woniewonie), [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
 
 ------------
 
