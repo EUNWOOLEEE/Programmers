@@ -2,7 +2,7 @@
 
 int arr[2001] = {0,};
 
-int DP(n)
+int DP(int n)
 {
     arr[1] = 1;
     arr[2] = 2;
