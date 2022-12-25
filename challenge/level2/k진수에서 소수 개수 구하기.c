@@ -18,7 +18,7 @@ int is_prime(size_t n)
     if(n < 2) return 0;
     
     for(size_t i = 2; i * i <= n; i++)
-        if(!n % i) return 0;
+        if(!(n % i)) return 0;
     
     return 1;
 }
@@ -32,7 +32,7 @@ int solution(int n, int k)
     
     for(int i = idx - 1; i >= 0; i--)
     {
-        if(arr[i] > 0)
+        if(arr[i])
             num = (num * 10) + arr[i];
         
         if(!arr[i] || !i) //마지막에 0으로 끝나지 않을 때도 체크해야 함
