@@ -27,7 +27,7 @@ int valid_coor(char cmd)
         return 0;
 
     if(visited[x + 5][y + 5].to_dir[cmd]) //같은 방향에서 해당 좌표로 온 적 있는지
- 	    return -1;
+        return -1;
 
     if(cmd == 0 || cmd == 2) cmd++; //cmd 반대방향으로 초기화
         else cmd--;
@@ -54,8 +54,8 @@ int solution(const char* dirs)
 
         if(valid_coor(cmd) == 1)
         {
- 		    visited[pre_x + 5][pre_y + 5].from_dir[cmd] += x_dir[cmd]; //간 방향 체크
- 		    visited[pre_x + 5][pre_y + 5].from_dir[cmd] += y_dir[cmd];
+            visited[pre_x + 5][pre_y + 5].from_dir[cmd] += x_dir[cmd]; //간 방향 체크
+            visited[pre_x + 5][pre_y + 5].from_dir[cmd] += y_dir[cmd];
             visited[x + 5][y + 5].to_dir[cmd] += x_dir[cmd]; //온 방향 체크
             visited[x + 5][y + 5].to_dir[cmd] += y_dir[cmd];
             ans++;
