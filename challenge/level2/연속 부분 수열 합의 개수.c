@@ -13,12 +13,7 @@ int solution(int elements[], size_t elements_len)
 	{
 		sum = 0;
 		for(int j = i; j < i + cnt; j++)
-		{
-			if(j >= elements_len)
-				sum += elements[j % elements_len];
-			else
-				sum += elements[j];
-		}
+			sum += elements[j % elements_len];
 
 		arr[sum]++;
 		cnt++;
