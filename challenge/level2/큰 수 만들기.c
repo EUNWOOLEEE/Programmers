@@ -9,15 +9,15 @@ char* solution(const char* number, int k)
 
 	for(int i = 0; str[i]; i++)
 	{
-        //k개만큼 숫자가 남아있을 경우
+		//k개만큼 숫자가 남아있을 경우
 		if(strlen(str) - i == k)
 		{
 			str[i] = -1;
 			k--;
 			continue;
 		}
-
-        //i부터 남은 k개 범위 안에 i보다 더 큰 수가 있으면 i를 -1로 초기화
+		
+		//i부터 남은 k개 범위 안에 i보다 더 큰 수가 있으면 i를 -1로 초기화
 		for(int j = i + 1; j <= i + k; j++)
 		{
 			if(str[i] < str[j])
