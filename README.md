@@ -1,7 +1,7 @@
 # Programmers
 
 
-## Problem solving with C language
+### Problem solving with C language
 
 #### Goal : https://school.programmers.co.kr
 
