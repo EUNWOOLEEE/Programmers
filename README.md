@@ -16,7 +16,7 @@
   - For 19 days
 - Lv2
   - one problem a day
-  - For 39 days
+  - For 24 days
  - Participants : [wonies](https://github.com/wonies), [JeisaNewbie](https://github.com/JeisaNewbie), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
 
 ------------
