@@ -2,15 +2,15 @@ import java.util.Arrays;
 
 class Solution {
     public int solution(int[] arr) {
-        int gcd = arr[0];
+        int lcm = arr[0];
         for (int i = 1; i < arr.length; i++)
-            gcd = gcd * arr[i] / getLcm(Math.max(gcd, arr[i]), Math.min(gcd, arr[i]));
-        return gcd;
+            lcm = lcm * arr[i] / getGcd(lcm, arr[i]);
+        return lcm;
     }
     
-    private int getLcm(int a, int b) {
+    private int getGcd(int a, int b) {
         if (b == 0) return a;
-        return getLcm(b, a % b);
+        return getGcd(b, a % b);
     }
 
     // public int solution(int[] arr) {
