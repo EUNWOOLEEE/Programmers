@@ -11,8 +11,9 @@
 - Started at Feb 15, 2025
 - Level2
   - under 60% success rate -> one problem a day
-  - over 60% success rate -> two problem a day
- - Participants : [wonies](https://github.com/wonies), [smwkbgmn](https://github.com/smwkbgmn), [DongwookHong](https://github.com/DongwookHong)
+  - over 60% success rate -> two problems a day
+ - Participants : [wonies](https://github.com/wonies), [smwkbgmn](https://github.com/smwkbgmn), [DongwookHong](https://github.com/DongwookHong), [KichanLee](https://github.com/KichanLee)  
+
 
 ------------
 
