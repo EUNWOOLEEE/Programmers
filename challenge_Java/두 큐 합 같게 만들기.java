@@ -6,10 +6,8 @@ class Solution {
         
         for (int i = 0; i < queue1.length; i++) {
             queue[i] = queue1[i];
-            total1 += queue1[i];
-        }
-        for (int i = 0; i < queue2.length; i++) {
             queue[i + queue1.length] = queue2[i];
+            total1 += queue1[i];
             total2 += queue2[i];
         }
         
