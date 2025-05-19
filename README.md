@@ -6,7 +6,7 @@
 
 ------------
 
-### ✨  Challenge with Java
+### ✨  Challenge with Java [Done]
 - Review each other's code  
 - Started at Feb 15, 2025
 - Level2
@@ -17,7 +17,7 @@
 
 ------------
 
-### ✨  Challenge with C
+### ✨  Challenge with C [Done]
 - Review each other's code  
 - Started at Nov 29, 2022
 - Level1
